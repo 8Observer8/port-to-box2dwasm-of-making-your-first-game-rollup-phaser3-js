@@ -1,0 +1,10 @@
+* {
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    /*outline: auto;*/
+}
+
+input[type=checkbox] {
+    transform: scale(1.5);
+}
